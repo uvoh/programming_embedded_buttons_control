@@ -122,6 +122,8 @@ ButtonNumber GetButtonPressed() {
 	return bn;
 }
 
+
+
 void SetLEDcolor(LEDnumber led, LEDcolour Colour) {
 	unsigned short Pattern;
 	Pattern = Colour << led * 2;
@@ -226,7 +228,7 @@ int main(void)
 		  }
 		  s = 0;
 		  m = 0;
-		  //random button
+		  //random button lights
 		  int randombutton = rand() %8;
 		 	  while(1){
 		 		  LEDPos=randombutton;
