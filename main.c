@@ -30,7 +30,7 @@
 /* Private typedef -----------------------------------------------------------*/
 /* USER CODE BEGIN PTD */
 
-/* USER CODE END PTD*/
+/* USER CODE END PTD nnnnnnnnnnnnnnnnnnnn*/
 
 /* Private define ------------------------------------------------------------*/
 /* USER CODE BEGIN PD */
